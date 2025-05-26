@@ -1,4 +1,4 @@
-# Empowering-Education-Exploring-Student-Data-for-a-Brighter-Future-using-EDA
+# Empowering-Education-Exploring-Student-Data-for-a-Brighter-Future-using-EDA-in-R
 
 ## Overview
 
