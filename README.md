@@ -1,6 +1,6 @@
 # Empowering-Education-Exploring-Student-Data-for-a-Brighter-Future-using-EDA
 
-## Project Overview
+## Overview
 
 This project aims to explore and analyze student performance data to identify key factors influencing academic success. By applying Exploratory Data Analysis (EDA) techniques, we uncover patterns related to school type, gender, study habits, absences, and grades. These insights can help drive impactful changes in education systems, policies, and learning strategies.
 
